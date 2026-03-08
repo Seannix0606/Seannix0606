@@ -19,20 +19,20 @@ Reach me at **seanarcher0606@gmail.com**
 ## Languages and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" style="background-color: #2D2D2D; border-radius: 10px; padding: 8px; margin: 4px;" alt="Python" />
+  <img src="https://cdn.simpleicons.org/csharp/239120" width="48" height="48" style="background-color: #2D2D2D; border-radius: 10px; padding: 8px; margin: 4px;" alt="C#" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="48" height="48" style="background-color: #2D2D2D; border-radius: 10px; padding: 8px; margin: 4px;" alt="C" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="48" height="48" style="background-color: #2D2D2D; border-radius: 10px; padding: 8px; margin: 4px;" alt="C++" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" style="background-color: #2D2D2D; border-radius: 10px; padding: 8px; margin: 4px;" alt="React" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" width="48" height="48" style="background-color: #2D2D2D; border-radius: 10px; padding: 8px; margin: 4px;" alt="Vite" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="48" height="48" style="background-color: #2D2D2D; border-radius: 10px; padding: 8px; margin: 4px;" alt="Supabase" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="48" height="48" style="background-color: #2D2D2D; border-radius: 10px; padding: 8px; margin: 4px;" alt=".NET" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" width="48" height="48" style="background-color: #2D2D2D; border-radius: 10px; padding: 8px; margin: 4px;" alt="PHP" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" style="background-color: #2D2D2D; border-radius: 10px; padding: 8px; margin: 4px;" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" height="48" style="background-color: #2D2D2D; border-radius: 10px; padding: 8px; margin: 4px;" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" style="background-color: #2D2D2D; border-radius: 10px; padding: 8px; margin: 4px;" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" height="48" style="background-color: #2D2D2D; border-radius: 10px; padding: 8px; margin: 4px;" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="48" height="48" style="background-color: #2D2D2D; border-radius: 10px; padding: 8px; margin: 4px;" alt="AWS" />
 </p>
 
 ---
