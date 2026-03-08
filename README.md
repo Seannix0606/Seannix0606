@@ -1,6 +1,6 @@
-# [Sean Archer Fernandez]
+# Sean Archer Fernandez
 
-## [Full Stack Developer & Data Analyst]
+## Full Stack Developer & Data Analyst
 
 I'm currently an intern at MBPS (Manulife Business Processing Services) as a full stack developer and Data analyst.
 
